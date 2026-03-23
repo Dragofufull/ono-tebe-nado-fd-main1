@@ -1,28 +1,28 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+
+ * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 .header__link_active {
-    border-bottom: 2px solid #000; 
+  border-bottom: 2px solid #000;
 }
 
 .card__title p span {
-    display: inline;
-    border-bottom: 2px solid #FFFFFF;
-    padding-bottom: 2px;
-    box-decoration-break: clone;
-    -webkit-box-decoration-break: clone;
+  display: inline;
+  border-bottom: 2px solid #FFFFFF;
+  padding-bottom: 2px;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
 }
 
 .about__logo-image {
-    width: 148px;
-    height: auto; 
-    display: block;
+  width: 148px;
+  height: auto;
+  display: block;
 }
 
 .footer_menu_border {
-    border-bottom: 1px solid #000;
+  border-bottom: 1px solid #000;
 }
-
