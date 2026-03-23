@@ -1,5 +1,7 @@
 * {
-    margin: 0; 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 .header__link_active {
@@ -7,8 +9,9 @@
 }
 
 .card__title p span {
-    border-bottom: 2px solid #FFFFFF; 
-    display: inline; 
+    display: inline;
+    border-bottom: 2px solid #FFFFFF;
+    padding-bottom: 2px;
     box-decoration-break: clone;
     -webkit-box-decoration-break: clone;
 }
